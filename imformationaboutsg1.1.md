@@ -1,2 +1,0 @@
-This Code uses raylib for making games
-___________________________________________
